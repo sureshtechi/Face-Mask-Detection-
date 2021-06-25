@@ -2,4 +2,4 @@ Real-time face mask detector using Deep Learning and Convolutional Neural Networ
 
 detect masks worn by people and sends an alert if no mask is detected.
 
-The model gave an Accuracy of 97.29 percentage. The model is also trained to detect transparent masks and Face Shields.
+The model is also trained to detect transparent masks and Face Shields.
